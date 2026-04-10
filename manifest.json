@@ -1,7 +1,7 @@
 {
   "name": "Waktu Shalat Mustika Jaya",
   "short_name": "Waktu Shalat",
-  "description": "Cek waktu shalat Mustika Jaya Bekasi",
+  "description": "Cek Waktu Shalat Mustikajaya Bekasi",
   "start_url": "/jadwalsolat/",
   "display": "standalone",
   "background_color": "#B57777",

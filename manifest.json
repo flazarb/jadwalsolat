@@ -4,8 +4,8 @@
   "description": "Cek Waktu Shalat Mustikajaya Bekasi",
   "start_url": "/jadwalsolat/",
   "display": "standalone",
-  "background_color": "#B57777",
-  "theme_color": "#B57777",
+  "background_color": "#295E75",
+  "theme_color": "#295E75",
   "orientation": "portrait",
   "icons": [
     {

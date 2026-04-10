@@ -2,10 +2,10 @@
   "name": "Waktu Shalat Mustika Jaya",
   "short_name": "Waktu Shalat",
   "description": "Cek waktu shalat Mustika Jaya Bekasi",
-  "start_url": "/",
+  "start_url": "/jadwalsolat/",
   "display": "standalone",
-  "background_color": "#1a6b3c",
-  "theme_color": "#1a6b3c",
+  "background_color": "#B57777",
+  "theme_color": "#B57777",
   "orientation": "portrait",
   "icons": [
     {
